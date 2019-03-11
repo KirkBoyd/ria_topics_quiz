@@ -9,7 +9,6 @@ project(topics_quiz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rospy
-  topics_quiz.launch
 )
 
 ## System dependencies are found with CMake's conventions
